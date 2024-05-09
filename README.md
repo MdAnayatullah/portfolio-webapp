@@ -1,25 +1,10 @@
-# Developer Portfolio
-
-### Are you struggling to create a professional portfolio website? Look no further! You can use the Developer Portfolio template and create your very own personalized portfolio today! My website is designed to be user-friendly and easily customizable, making it perfect for both developers and freelancers.
+# Portfolio web-app
 
 ---
-
-# Demo :movie_camera:
-
-![](./public/image/screen.png)
 
 ## View live preview [here](#link).
 
 ---
-
-## Table of Contents :scroll:
-
-- [Sections](#sections-bookmark)
-- [Demo](#demo-movie_camera)
-- [Installation](#installation-arrow_down)
-- [Getting Started](#getting-started-dart)
-- [Usage](#usage-joystick)
-- [Packages Used](#packages-used-package)
 
 ---
 
