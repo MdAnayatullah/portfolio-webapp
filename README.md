@@ -3,7 +3,7 @@
 ---
 
 ## View live preview [here](https://anayat-portfolio.vercel.app/).
-# link: https://anayat-portfolio.netlify.app/
+### link: https://anayat-portfolio.netlify.app/
 
 ---
 
