@@ -2,7 +2,7 @@
 
 ---
 
-## View live preview [here](#link).
+## View live preview [here](https://anayat-portfolio.vercel.app/).
 
 ---
 
